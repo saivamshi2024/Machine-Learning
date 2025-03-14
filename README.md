@@ -57,3 +57,27 @@ matplotlib
 seaborn
 jupyter
 ```
+## Installation
+```bash
+# Clone the repository
+git clone https://github.com/saivamshi2024/Machine-Learning.git
+
+# Navigate to the project directory
+cd ml-algorithms
+
+# Install required packages
+pip install -r requirements.txt
+
+# Start Jupyter Notebook
+jupyter notebook
+```
+
+## Usage
+Each algorithm is implemented in its own Jupyter notebook. To use:
+1. Open the desired notebook
+2. Run the cells sequentially
+3. Follow the documentation and comments within each notebook
+4. Experiment with different datasets and parameters
+
+## Dataset
+The repository includes a `Datasets` folder containing various datasets used in the implementations. Each notebook specifies which dataset it uses and how to load it.
